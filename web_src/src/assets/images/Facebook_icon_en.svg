@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Facebook_icom</title>
+    <defs>
+        <polygon id="path-1" points="0 0 31.999985 0 31.999985 32 0 32"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="英文版" transform="translate(-1145.000000, -4871.000000)">
+            <g id="编组-26" transform="translate(1145.000000, 4871.000000)">
+                <g id="编组" transform="translate(1.000000, 1.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                </g>
+                <path d="M31.7199,1 L2.2801,1 C1.572,1 1,1.57205 1,2.2801 L1,31.7199 C1,32.42795 1.572,33 2.2801,33 L18.08805,33 L18.08805,20.608 L13.916,20.608 L13.916,15.776 L18.08805,15.776 L18.08805,12.216 C18.08805,8.084 20.6119,5.83205 24.3,5.83205 C26.06795,5.83205 27.58395,5.96405 28.02795,6.024 L28.02795,10.34005 L28.024,10.34005 L25.46795,10.34005 C23.46405,10.34005 23.076,11.292 23.076,12.692 L23.076,15.776 L27.85995,15.776 L27.2359,20.6039 L23.076,20.6039 L23.076,33 L31.7199,33 C32.42795,33 33,32.42795 33,31.7199 L33,2.2801 C33,1.57205 32.42795,1 31.7199,1" id="Fill-1" fill="#231916"></path>
+            </g>
+        </g>
+    </g>
+</svg>

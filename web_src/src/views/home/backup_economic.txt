@@ -1,0 +1,156 @@
+<template>
+  <div class="immeta-economic">
+    <div class="wrap">
+      <div class="econ-item"
+        v-for="item in econData"
+        :key="item.id"
+      >
+        <div class="txt-box">
+          <dl v-for="(c, i) in item.content" :key="i">
+            <dt>
+              {{c.tit}}
+              <span>{{c.tips}}</span>
+            </dt>
+            <dd v-for="(t, n) in c.txts" :key="n">
+              <p v-if="typeof t == 'string'">{{t}}</p>
+              <p v-else-if="typeof t == 'object'">
+                {{t.t}}
+                <span>{{t.s}}</span>
+              </p>
+              <p v-else></p>
+            </dd>
+          </dl>
+        </div>
+        <div class="img-box">
+          <img :src="item.picUrl" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+<script>
+export default {
+  name: 'Economic',
+  data() {
+    return {
+      econData: [
+        {
+          id: 'e1',
+          picUrl: require("images/economic M01_img.png"),
+          content: [
+            {
+              tit: 'Token抵押X天价格为Y',
+              tips: 'Day/Token',
+              txts: [
+                'License -> 生成日期X*Y天，是否映射，IM地址，OWNER地址'
+              ]
+            },
+            {
+              tit: 'owner可以在主网转让License',
+              tips: '',
+              txts: [
+                'Token到期可以赎回',
+                {
+                  t: 'Owner可以将License映射到其他网络',
+                  s: '（例如ETH测试网）'
+                }
+              ]
+            },
+          ]
+        },
+        {
+          id: 'e2',
+          picUrl: require("images/economic M02_img.png"),
+          content: [
+            {
+              tit: '加密通讯是重要工具',
+              tips: '',
+              txts: []
+            },
+            {
+              tit: 'Token体现价值',
+              tips: '',
+              txts: []
+            },
+            {
+              tit: 'License体现使用价格',
+              tips: '',
+              txts: [
+                'DAO负责社区繁荣与产品开发价格调整',
+                'Token达到极值，Token兑License价格稳定，收益达到平均值'
+              ]
+            }
+          ]
+        },
+        {
+          id: 'e3',
+          picUrl: require("images/economic M03_img.png"),
+          content: [
+            {
+              tit: 'IM的昵称全系统唯一',
+              tips: '',
+              txts: []
+            },
+            {
+              tit: 'DAO负责售卖昵称并将收入维护Token价',
+              tips: '',
+              txts: [
+                'Token释放给License生态的参与者（矿主投资者，代码贡献者）',
+                '昵称与地址绑定后可以拍卖、转送收入归所有者',
+                '群主、头像、表情均为NFT资产，均可参考'
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+</script>
+<style lang="scss" scoped>
+.immeta-economic {
+  background: #F8FCFD;
+  overflow:hidden;
+}
+.wrap {
+  display: block;
+  justify-content: initial;
+  align-items: initial;
+}
+.econ-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  // flex-wrap: wrap;
+  margin: 20px 0;
+  &:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+  .img-box {
+    max-width: 564px;
+    max-height: 528px;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+dl {
+  dt {
+    font-size: 32px;
+    color: #2E2E2E;
+    line-height: 2;
+    font-weight: 500;
+  }
+  dd {
+    font-size: 18px;
+    color: #2E2E2E;
+    line-height: 1.5;
+  }
+  span {
+    font-size: 16px;
+    color: #858585;
+  }
+}
+</style>
+

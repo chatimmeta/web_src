@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+i {
+  display: inline-block;
+  font-style: normal;
+}
+a {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+ul {
+  list-style-type: none;
+}
+a:hover, button:hover {
+  filter: brightness(120%);
+  transition: all 0.3s;
+  cursor: pointer;
+}
+.wrap {
+  display: flex;
+  margin: 0 auto;
+  padding: 0 40px;
+  max-width: 1400px;
+  min-width: 880px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+}

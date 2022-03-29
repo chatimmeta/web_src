@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="471px" height="301px" viewBox="0 0 471 301" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>economic M02_img</title>
+    <defs>
+        <path d="M23.5,0 C36.4786916,-2.38414697e-15 47,10.5213084 47,23.5 L47,25.735745 L47,25.735745 L0,25.735745 L0,23.5 C-5.14214499e-15,10.5213084 10.5213084,2.38414697e-15 23.5,0 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="英文版" transform="translate(-198.000000, -3492.000000)">
+            <g id="economic-M02_img" transform="translate(198.000000, 3492.000000)">
+                <text id="User-increase" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#2E2E2E">
+                    <tspan x="12" y="74">User increase</tspan>
+                </text>
+                <text id="Token-value-rises" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#2E2E2E">
+                    <tspan x="0" y="283">Token value rises</tspan>
+                </text>
+                <g id="编组-11" transform="translate(42.000000, 210.000000)" stroke-width="2">
+                    <rect id="矩形" stroke="#2E2E2E" x="1" y="1" width="57.4531924" height="45.5471698"></rect>
+                    <line x1="6.19197584" y1="29.785967" x2="6.19197584" y2="40.4721083" id="直线-3" stroke="#2E2E2E" stroke-linecap="round"></line>
+                    <line x1="14.1919758" y1="31.410967" x2="14.1919758" y2="40.4721083" id="直线-3备份" stroke="#2E2E2E" stroke-linecap="round"></line>
+                    <line x1="22.1919758" y1="28.0373257" x2="22.1919758" y2="40.4721083" id="直线-3备份-2" stroke="#2E2E2E" stroke-linecap="round"></line>
+                    <line x1="30.1919758" y1="30.598467" x2="30.1919758" y2="40.4721083" id="直线-3备份-3" stroke="#2E2E2E" stroke-linecap="round"></line>
+                    <line x1="46.1919758" y1="30.598467" x2="46.1919758" y2="40.4721083" id="直线-3备份-5" stroke="#2E2E2E" stroke-linecap="round"></line>
+                    <line x1="38.1919758" y1="28.0373257" x2="38.1919758" y2="40.4721083" id="直线-3备份-4" stroke="#2E2E2E" stroke-linecap="round"></line>
+                    <line x1="54.1919758" y1="28.0373257" x2="54.1919758" y2="40.4721083" id="直线-3备份-6" stroke="#2E2E2E" stroke-linecap="round"></line>
+                    <polyline id="路径" stroke="#EF2215" stroke-linecap="round" points="6.19197584 15.9810112 24.9567717 21.6796515 32.2250113 12.5682701 40.1626317 17.0429617 51.5177214 11.4012678"></polyline>
+                    <polyline id="路径" stroke="#EF2215" stroke-linecap="round" transform="translate(49.804429, 12.222115) rotate(2.000000) translate(-49.804429, -12.222115) " points="47.8783286 9.81785609 51.7305288 10.6263734 51.7301991 14.6263734"></polyline>
+                </g>
+                <g id="编组-8" transform="translate(44.000000, 0.000000)">
+                    <g id="椭圆形" transform="translate(0.000000, 26.264255)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#D1EA25" xlink:href="#path-1"></use>
+                        <ellipse stroke="#2E2E2E" fill="#F8FCFD" mask="url(#mask-2)" cx="23.2494067" cy="0.461326443" rx="8.89613328" ry="8.93255814"></ellipse>
+                    </g>
+                    <g id="编组-7" transform="translate(10.721229, 0.000000)">
+                        <rect id="矩形" stroke="#2E2E2E" fill="#F8FCFD" x="4.82252725" y="5.3372093" width="15.565035" height="22.7560724" rx="7"></rect>
+                        <path d="M18.7922666,0 C20.5220469,0 21.924311,1.40770004 21.924311,3.14418605 C21.924311,3.28194196 21.9154861,3.41762873 21.898373,3.55070771 C22.848613,4.08942257 23.4903332,5.11366592 23.4903332,6.28837209 C23.4903332,6.37785011 23.48661,6.46645516 23.4793105,6.55403961 C25.3096099,7.1969213 26.6223776,8.94688526 26.6223776,11.0046512 C26.6223776,13.6093802 24.5189815,15.7209302 21.924311,15.7209302 C19.3296404,15.7209302 17.2262443,13.6093802 17.2262443,11.0046512 C17.2262443,10.8585724 17.23286,10.7140447 17.2458068,10.5713537 C16.7811288,10.8470475 16.2390095,11.0046512 15.6602221,11.0046512 C14.7246207,11.0046512 13.8848341,10.5928288 13.3109239,9.93990483 C12.7375436,10.5928288 11.8977569,11.0046512 10.9621555,11.0046512 C10.9621555,12.7411372 9.55989144,14.1488372 7.83011107,14.1488372 C7.80363825,14.1488372 7.77724215,14.1485075 7.75092661,14.147852 C7.80300472,14.4013846 7.83011107,14.6649564 7.83011107,14.9348837 C7.83011107,17.1054912 6.077281,18.8651163 3.91505553,18.8651163 C1.75283007,18.8651163 0,17.1054912 0,14.9348837 C0,13.6117293 0.651325787,12.4412899 1.64967576,11.7290468 C1.59499764,11.4970881 1.56602221,11.2542665 1.56602221,11.0046512 C1.56602221,9.26816516 2.96828627,7.86046512 4.69806664,7.86046512 C4.84701324,7.86046512 4.9935315,7.87090245 5.13693523,7.89108829 C4.85779887,7.42306857 4.69806664,6.87444637 4.69806664,6.28837209 C4.69806664,4.55188609 6.10033069,3.14418605 7.83011107,3.14418605 C7.96767981,3.14418605 8.10317702,3.15308969 8.23606208,3.17035426 C8.77142347,2.21647393 9.79182846,1.57209302 10.9621555,1.57209302 C11.8977569,1.57209302 12.7375436,1.98391543 13.3114537,2.63683936 C13.8848341,1.98391543 14.7246207,1.57209302 15.6602221,1.57209302 C15.7975503,1.57209302 15.9328142,1.58096556 16.0654761,1.59817075 C16.6015345,0.644380909 17.6219395,0 18.7922666,0 Z" id="形状结合" fill="#2E2E2E"></path>
+                    </g>
+                </g>
+                <path id="直线-4备份-7" d="M177.979655,18.9594569 L177.997,24.959 L274.676567,24.6792495 L275.676563,24.6763514 L275.682359,26.676343 L274.682363,26.6792411 L178.002,26.959 L178.020227,32.9593981 L164,26 L177.979655,18.9594569 Z" transform="translate(219.500000, 26.000000) scale(-1, 1) translate(-219.500000, -26.000000) " fill="#2E2E2E" fill-rule="nonzero"></path>
+                <path id="直线-4备份-11" d="M177.979655,224.959457 L177.997,230.959 L274.676567,230.679249 L275.676563,230.676351 L275.682359,232.676343 L274.682363,232.679241 L178.002,232.959 L178.020227,238.959398 L164,232 L177.979655,224.959457 Z" fill="#2E2E2E" fill-rule="nonzero"></path>
+                <path id="直线-4备份-10" d="M349.879809,156.888159 L349.927,162.888 L402.42675,162.468063 L403.426718,162.460065 L403.442714,164.460001 L402.442746,164.467999 L349.943,164.888 L349.991782,170.887711 L335.936243,163.999908 L349.879809,156.888159 Z" transform="translate(369.436243, 163.999908) rotate(-89.833954) translate(-369.436243, -163.999908) " fill="#2E2E2E" fill-rule="nonzero"></path>
+                <text id="License" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#2E2E2E">
+                    <tspan x="344" y="65">License</tspan>
+                </text>
+                <g id="编组-12" transform="translate(344.000000, 8.000000)">
+                    <rect id="矩形" stroke="#2E2E2E" stroke-width="2" x="1" y="1" width="46.921484" height="34.6792453"></rect>
+                    <rect id="矩形" fill="#F2BE52" x="30" y="7" width="14" height="19"></rect>
+                    <g id="编组-10" transform="translate(7.000000, 10.000000)" stroke="#2E2E2E" stroke-linecap="round" stroke-width="2">
+                        <line x1="0.5" y1="0.5" x2="16.5" y2="0.5" id="直线-5"></line>
+                        <line x1="0.5" y1="6.5" x2="16.5" y2="6.5" id="直线-5备份"></line>
+                        <line x1="0.5" y1="13.5" x2="16.5" y2="13.5" id="直线-5备份-2"></line>
+                    </g>
+                </g>
+                <text id="Price-Stable10$/30da" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#858585">
+                    <tspan x="312" y="87">Price Stable10$/30day</tspan>
+                </text>
+                <text id="decrease-with-time" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#858585">
+                    <tspan x="322" y="108">decrease with time</tspan>
+                </text>
+                <text id="Token-rises-against" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal">
+                    <tspan x="269.126" y="279" fill="#2E2E2E">Token rises against License</tspan>
+                    <tspan x="249.678" y="299" font-size="12" fill="#858585">DAO cut prices and limit Token amount</tspan>
+                </text>
+                <path d="M389.756638,225.512817 C396.082605,228.955181 400,233.726715 400,239 C400,249.49341 384.487983,258 365.352941,258 C346.217899,258 330.705882,249.49341 330.705882,239 C330.705882,235.067252 332.884731,231.413577 336.61656,228.382194 C335.682012,230.150055 335.176471,232.038383 335.176471,234 C335.176471,243.941125 348.160213,252 364.176471,252 C380.192728,252 393.176471,243.941125 393.176471,234 C393.176471,231.017662 392.007934,228.204727 389.939543,225.727964 Z" id="形状结合" fill="#2E2E2E"></path>
+                <polygon id="三角形" fill="#2E2E2E" transform="translate(353.990468, 253.988349) rotate(-71.000000) translate(-353.990468, -253.988349) " points="353.990468 247.988349 363.990468 259.988349 343.990468 259.988349"></polygon>
+                <polyline id="路径" stroke="#F8FCFD" stroke-width="2" transform="translate(353.990468, 253.988349) rotate(-71.000000) translate(-353.990468, -253.988349) " points="343.990468 259.988349 353.990468 247.988349 363.990468 259.988349"></polyline>
+                <circle id="椭圆形" stroke="#2E2E2E" fill="#F8FCFD" cx="378.5" cy="230.5" r="14"></circle>
+                <text id="T" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" fill="#1557EF">
+                    <tspan x="372" y="238">T</tspan>
+                </text>
+                <circle id="椭圆形备份-52" stroke="#2E2E2E" fill="#F8FCFD" cx="352.5" cy="231.5" r="14"></circle>
+                <text id="L" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" fill="#25EA3F">
+                    <tspan x="346" y="238">L</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
