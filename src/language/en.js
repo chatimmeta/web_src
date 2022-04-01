@@ -3,24 +3,24 @@ module.exports = {
     name: "EN"
   },
   nav: {
-    i1: 'Introduction',
-    i2: 'Development Planning',
+    i1: 'About immeta',
+    i2: 'Roadmap',
     i3: 'Economic Model',
-    i4: 'Join'
+    i4: 'Join Us'
   },
   header: {
     tit: 'Link everyone as a meta node',
     tit_1: 'Link everyone',
     tit_2: 'as a meta node',
-    txt: 'one people one node',
+    txt: 'one person one node',
     btn_1: 'Android download',
     btn_2: 'iOS download',
     // img: './assets/images/bannner_en.png'
   },
   introduce: {
-    tit: 'Introduction',
+    tit: 'About immeta',
     i1: {
-      tit: 'Crypto Social Platform',
+      tit: 'SocialFi platform',
       txt: {
         t1: 'Peer-to-peer encryption',
         t2: 'Decentralized routing',
@@ -33,87 +33,87 @@ module.exports = {
       txt: {
         t1: 'Token is stock',
         t2: 'License is a general consumption certificate',
-        t3: 'They are digital assets, transferable and tradable',
+        t3: 'Token and License are digital assets, transferable and tradable',
         t4: 'Mortgage token to generate a license for app purchase. The deposit duration is the valid date of this license.',
-        t5: 'The token is proof of DAD voting rights and mining participation rights'
+        t5: 'Token is the proof of DAD voting rights and mining participation rights'
       }
     },
     i3: {
       tit: 'DAO',
       txt: {
-        t1: 'Mining mode gradually upgraded',
-        t2: 'duration mining-> traffic mining -> no-digital ecology',
-        t3: 'Token is value anchor',
-        t4: 'fund raising-> voting -> Participate in management',
+        t1: 'Mining mode gradually upgrades',
+        t2: 'Duration mining-> Traffic mining -> No digital ecosystem',
+        t3: 'Token is the value anchor',
+        t4: 'Fund raising-> Voting -> Participate in management',
         t5: 'DAO regular event',
-        t6: 'community management -> development management -> project management'
+        t6: 'Community management -> Development management -> Project management'
       }
     }
   },
   developer: {
-    tit: 'Development Planning',
+    tit: 'Roadmap',
     i1: {
-      t1: 'Test environment running license',
+      t1: 'Run license in testnet',
       t2: 'DAO contract',
-      t3: 'development of network access point(AP) service',
-      t4: 'the logic of license generation',
+      t3: 'Develop network access point(AP)',
+      t4: 'Develop license generation rule',
       t5: 'DAPP'
     }, 
     i2: {
-      t1: 'duration based mining',
-      t2: 'Synchronize protocols through  multiple access points'
+      t1: 'Duration based mining',
+      t2: 'Synchronize protocols of multiple access points'
     },
     i3: {
-      t1: 'various DAPPs',
-      t2: 'Synchronize protocols through multiple access points'
+      t1: 'Various DAPPs',
+      t2: 'Traffic stamp based cross-domain mining'
     },
     i4: {
-      t1: 'public blockchain',
-      t2: 'smart-contract',
-      t3: 'DAO organization established',
-      t4: 'token mapping'
+      t1: 'Public blockchain',
+      t2: 'Smart-contract',
+      t3: 'Establish DAO',
+      t4: 'Token mapping'
     },
     i5: {
-      t1: 'Avatar Creation and Distribution NFT Platform',
-      t2: 'group (asset) trading platform',
-      t3: 'message plugin platform',
-      t4: 'emoji NFT platform'
+      t1: 'Avatar NFT creation and distribution platform',
+      t2: 'Group (asset) trading platform',
+      t3: 'Message plugin platform',
+      t4: 'Emoji NFT platform'
     }
   },
   economic: {
-    tit: 'Economic',
+    tit: 'Economic Model',
     i1: {
-      tit: 'New way to DEFI',
-      t1: 'The X-day token mortgage price is Y ',
+      tit: 'New DeFi',
+      t1: 'Mortgage Token for X day(s) the value is Y',
       t1s: 'Day/Token',
-      t2: 'License=>duration x*y days,  is mapped, IM Address, owner address',
-      t3: 'Owners can transfer the license on the main network',
+      t2: 'License=>Duration x*y days, is mapped, IM address, Owner address',
+      t3: 'Owners can transfer License on the main network',
       t4: 'Tokens can be redeemed when it expires',
-      t5: 'Owners can map licenses to other networks',
-      t5s: 'eg:ETH test'
+      t5: 'Owners can map Licenses to other networks',
+      t5s: 'eg:ETH testnet'
     },
     i2: {
       tit: 'Time is money',
       t1: 'Encrypted communication is a vital tool',
-      t2: 'Token reflect value',
-      t3: 'License reflect the price',
+      t2: 'Token reflects value',
+      t3: 'License reflects price',
       t4: 'DAO is responsible for community prosperity and price adjustment',
-      t5: 'Profit will be balanced given the proportion of token to license is static and token value fully expresses the user value of the ecosystem'
+      t5: 'Profit will be balanced given the proportion of Token to License is static and Token value fully expresses the user value of the ecosystem'
     },
     i3: {
       tit: 'New NFT Platform',
-      t1: 'Nickname in the IM system is unified',
-      t2: 'DAO selling nicknames and maintaining Token prices with revenue.',
+      t1: 'Nickname in the IM system is non fungible',
+      t2: 'DAO is responsible for selling nicknames and maintaining Token prices with revenue',
       t3: 'Tokens are released to participants in the License ecosystem (miner investors, code contributors)',
       t4: 'After the nickname is bound to the address, it can be auctioned, and the income will be transferred to the owner',
       t5: 'There are various types of NFT assets including the group owner, avatar, and emoji, like nicknames'
     }
   },
   participation: {
-    tit: 'Participation',
+    tit: 'Join Us',
     txt: {
       t1: 'Become an investor',
-      t2: 'Become a License Broker',
+      t2: 'Become a License broker',
       t3: 'Become a mine owner',
       t4: 'Become a code contributor'
     }

@@ -3,7 +3,7 @@ module.exports = {
     name: "中"
   },
   nav: {
-    i1: '简介',
+    i1: '关于immeta',
     i2: '开发规划',
     i3: '经济模型',
     i4: '参与'
@@ -18,7 +18,7 @@ module.exports = {
     // img: './assets/images/bannner.png'
   },
   introduce: {
-    tit: '简介',
+    tit: '关于immeta',
     i1: {
       tit: '加密社交平台',
       txt: {
@@ -32,9 +32,9 @@ module.exports = {
       tit: '新型数字经济生态',
       txt: {
         t1: 'Token是股票',
-        t2: 'License是通过消费证明',
-        t3: 'Token与License即为数字资产，可转可买卖',
-        t4: 'Token抵押产生License，抵押日期为License有效日期，用于支付app',
+        t2: 'License是通用消费证明',
+        t3: 'Token与License均为数字资产，可转可买卖',
+        t4: '抵押Token产生License，抵押期为License有效期，用于支付app',
         t5: 'Token为DAD投票权与挖矿参与权证明'
       }
     },
@@ -87,7 +87,7 @@ module.exports = {
       t1: 'Token抵押X天价格为Y',
       t1s: 'Day/Token',
       t2: 'License -> 生成日期X*Y天，是否映射，IM地址，OWNER地址',
-      t3: 'owner可以在主网转让License',
+      t3: 'Owner可以在主网转让License',
       t4: 'Token到期可以赎回',
       t5: 'Owner可以将License映射到其他网络',
       t5s: '（例如ETH测试网'
