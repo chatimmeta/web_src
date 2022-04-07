@@ -14,8 +14,7 @@ module.exports = {
     tit_2: '连接器',
     txt: '人人皆为元数据节点',
     btn_1: 'Android 下载',
-    btn_2: 'iOS 下载',
-    // img: './assets/images/bannner.png'
+    btn_2: 'iOS 下载'
   },
   introduce: {
     tit: '关于immeta',
@@ -25,7 +24,7 @@ module.exports = {
         t1: '点对点加密',
         t2: '去中心化路由',
         t3: '加密数字货币支付服务费',
-        t4: '钱包及账号'
+        t4: '钱包即账号'
       }
     },
     i2: {

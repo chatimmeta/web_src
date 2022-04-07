@@ -25,7 +25,7 @@ module.exports = {
         t1: 'Peer-to-peer encryption',
         t2: 'Decentralized routing',
         t3: 'Cryptocurrency payment service fee',
-        t4: 'Wallets and Accounts'
+        t4: 'Wallets is Accounts'
       }
     },
     i2: {

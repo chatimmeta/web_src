@@ -148,6 +148,7 @@ h3 {
         height: 6px;
         background: $c1;
         border-radius: 50%;
+        color: red;
       }
       &.zh {
         text-align: center;
